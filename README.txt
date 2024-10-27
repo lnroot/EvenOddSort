@@ -1,1 +1,1 @@
-Program writtin in C++ that concurrently sorts an array by making threads for the even indices and threads for the odd indices in alternating processes
+Program written in C++ that concurrently sorts an array by making alternating threads for the even indices and for the odd indices
